@@ -4,4 +4,4 @@ Learn something new every day.
 
 ## Linux
 
-* [set priority of cron tasks](linux/nice.md)
+* 2016-09-30 [set priority of cron tasks](linux/nice.md)
