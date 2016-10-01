@@ -2,6 +2,9 @@
 
 Learn something new every day.
 
+* [Composer](#composer)
+* [Linux](#linux)
+
 ## Composer
 
 * 2016-10-01 [composer local repositories](composer/local-repo.md)
