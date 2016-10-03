@@ -4,6 +4,7 @@ Learn something new every day.
 
 * [Composer](#composer)
 * [Linux](#linux)
+* [Vim](#vim)
 
 ## Composer
 
@@ -12,3 +13,7 @@ Learn something new every day.
 ## Linux
 
 * 2016-09-30 [set priority of cron tasks](linux/nice.md)
+
+## Vim
+
+* 2016-10-03 [vim tabs list](vim/tabs.md)
