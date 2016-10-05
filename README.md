@@ -5,6 +5,7 @@ Learn something new every day.
 * [Composer](#composer)
 * [Linux](#linux)
 * [Vim](#vim)
+* [CLI Tools](#cli_tools)
 
 ## Composer
 
@@ -17,3 +18,7 @@ Learn something new every day.
 ## Vim
 
 * 2016-10-03 [vim tabs list](vim/tabs.md)
+
+## CLI Tools
+
+* 2016-10-05 [noti system notifier](cli_tools/noti.md)
