@@ -5,7 +5,7 @@ Learn something new every day.
 * [Composer](#composer)
 * [Linux](#linux)
 * [Vim](#vim)
-* [CLI Tools](#cli_tools)
+* [CLI Tools](#cli-tools)
 
 ## Composer
 
