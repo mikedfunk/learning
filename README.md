@@ -19,6 +19,7 @@ Learn something new every day.
 
 * 2016-10-03 [Tabs list](vim/tabs.md)
 * 2016-10-05 [Resize splits](vim/resize_splits.md)
+* 2016-10-05 [Navigate the viewport](vim/viewport.md)
 
 ## CLI Tools
 
