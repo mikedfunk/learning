@@ -1,4 +1,4 @@
-# Navigate viewport
+# Navigate viewport (vertically)
 
 * `zz` center viewport on current line
 * `zt` move current line to top of viewport
