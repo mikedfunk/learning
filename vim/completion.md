@@ -23,3 +23,6 @@
 * `<c-x><c-v>` Vim command-line
 * `<c-x><c-u>` User defined completion
 * `<c-x>s` Spelling suggestions
+
+* `<c-e>` Cancel completion
+* `<c-y>` Accept the current completion
