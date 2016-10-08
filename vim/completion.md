@@ -1,6 +1,6 @@
 # Vim built-in completion
 
-### Completion
+## Completion
 
 * `<c-x><c-o>` omnicompletion
 * `<c-x><c-l>` whole line completion e.g. start at the beginning of a line, type a few chars from the beginning of another line, and hit the key combo. It will complete the entire other line!
@@ -14,7 +14,7 @@
 * `<c-x><c-p>` complete the current selection from matches above the cursor and then continue with the rest of it.
 * `<c-x><c-p>` complete the current selection from matches below the cursor and then continue with the rest of it.
 
-### Others
+## Others
 
 * `<c-x><c-k>` keywords in 'dictionary'
 * `<c-x><c-t>` keywords in 'thesaurus', thesaurus-style
