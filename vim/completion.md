@@ -1,5 +1,7 @@
 # Vim built-in completion
 
+From insert mode:
+
 ## Completion
 
 * `<c-x><c-o>` omnicompletion
