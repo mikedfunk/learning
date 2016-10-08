@@ -24,5 +24,7 @@
 * `<c-x><c-u>` User defined completion
 * `<c-x>s` Spelling suggestions
 
+## Etc
+
 * `<c-e>` Cancel completion
 * `<c-y>` Accept the current completion
