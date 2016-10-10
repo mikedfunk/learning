@@ -27,7 +27,7 @@ Learn something new every day.
 * 2016-10-05 [Navigate the viewport vertically](vim/viewport.md)
 * 2016-10-06 [Populate replace dialog](vim/populate_replace.md)
 * 2016-10-07 [Completion](vim/completion.md)
-* 2016-10-10 [Navigate splits, windows, etc. with ctrl-w](vim/naviate_splits.md)
+* 2016-10-10 [Navigate splits, windows, etc. with ctrl-w](vim/navigate_splits.md)
 
 ## CLI Tools
 
