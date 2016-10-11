@@ -5,6 +5,7 @@ Learn something new every day.
 * [Composer](#composer)
 * [Docker](#docker)
 * [Linux](#linux)
+* [Tmux](#tmux)
 * [Vim](#vim)
 * [CLI Tools](#cli-tools)
 
@@ -19,6 +20,10 @@ Learn something new every day.
 ## Linux
 
 * 2016-09-30 [Set priority of cron tasks](linux/nice.md)
+
+## Tmux
+
+* 2016-10-11 [Windows and Panes](tmux/windows_and_panes.md)
 
 ## Vim
 
