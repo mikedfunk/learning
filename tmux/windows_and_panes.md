@@ -1,0 +1,24 @@
+# Tmux Windows and Panes
+
+Prefix is by default `<c-b>` but I change mine to `<c-a>`.
+
+* `<prefix> n` next window
+* `<prefix> p` previous window
+* `<prefix> {number}` go to {number} window
+* `<prefix> . {number}` move the current window to number {number}
+* `<prefix> c` create a new window
+* `<prefix> &` kill window
+* `<prefix> , {name}` rename window to {name}
+
+* `<prefix "` create new horizontal split pane
+* `<prefix %` create new vertical
+* `<prefix> x` kill pane
+* `<prefix> <space>` cycle through pane arrangements
+* `<prefix> <c-s-j>` increase pane size by 10 rows
+* `<prefix> <c-s-k>` decrease pane size by 10 rows
+* `<prefix> <c-s-h>` decrease pane size by 10 columns
+* `<prefix> <c-s-l>` increase pane size by 10 columns
+* `<prefix> z` toggle pane zoom
+* `<prefix> r` rotate panes
+* `<prefix> }` move pane right/down
+* `<prefix> {` move pane left/up
