@@ -2,6 +2,8 @@
 
 Prefix is by default `<c-b>` but I change mine to `<c-a>`.
 
+## Windows
+
 * `<prefix> n` next window
 * `<prefix> p` previous window
 * `<prefix> {number}` go to {number} window
@@ -9,6 +11,8 @@ Prefix is by default `<c-b>` but I change mine to `<c-a>`.
 * `<prefix> c` create a new window
 * `<prefix> &` kill window
 * `<prefix> , {name}` rename window to {name}
+
+## Panes
 
 * `<prefix "` create new horizontal split pane
 * `<prefix %` create new vertical
@@ -22,3 +26,4 @@ Prefix is by default `<c-b>` but I change mine to `<c-a>`.
 * `<prefix> r` rotate panes
 * `<prefix> }` move pane right/down
 * `<prefix> {` move pane left/up
+* `<prefix> q` show pane numbers, type number to go to that pane
