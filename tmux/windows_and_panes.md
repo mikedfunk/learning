@@ -14,8 +14,8 @@ Prefix is by default `<c-b>` but I change mine to `<c-a>`.
 
 ## Panes
 
-* `<prefix "` create new horizontal split pane
-* `<prefix %` create new vertical
+* `<prefix> "` create new horizontal split pane
+* `<prefix> %` create new vertical
 * `<prefix> x` kill pane
 * `<prefix> <space>` cycle through pane arrangements
 * `<prefix> <c-s-j>` increase pane size by 10 rows
