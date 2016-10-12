@@ -13,8 +13,8 @@ From insert mode:
 
 * `<c-n>` next match for word under cursor
 * `<c-p>` previous match for word under the cursor
-* `<c-x><c-n>` continues the last completion with the next _word_ from that completion
-* `<c-x><c-p>` continues the last completion with the previous _word_ from that completion
+* `<c-x><c-n>` expands the completion to include the next _word_.
+* `<c-x><c-p>` expands the completion to include the previous _word_.
 
 ## Others
 
