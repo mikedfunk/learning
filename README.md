@@ -25,6 +25,7 @@ Learn something new every day.
 ## PhpUnit
 
 * 2016-10-13 [getMock() vs. getMockBuilder()](phpunit/get_mock_vs_get_mock_builder.md)
+* 2016-10-13 [willReturn() by args](phpunit/will_return_by_args.md)
 
 ## Tmux
 
