@@ -1,6 +1,6 @@
 # getMock vs. getMockBuilder
 
-```
+```php
 // long version
 $myMock = $this->getMockBuilder(MyMock::class)->
     setMethods(['method1'])->
