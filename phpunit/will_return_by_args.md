@@ -1,4 +1,4 @@
-# willReturn by args
+# willReturn() by args
 
 In [prophecy](https://github.com/phpspec/prophecy) you can do this:
 
