@@ -11,7 +11,9 @@
 
 `docker {cmd}`
 
-* **run**: pull the related image from docker hub, create a new container for that image, run the default executable defined. e.g. `docker run hello-world`. You can also run different commands for containers e.g. `docker run alpine ls -l`
-* **run -it {container} {cmd}**: run a command in interactive terminal.
-* **pull**: pull the image from the docker registry to your local repository. e.g. `docker pull alpine`
-* **images**: List all images you have downloaded
+* `run`: pull the related image from docker hub, create a new container for that image, run the default executable defined. e.g. `docker run hello-world`. You can also run different commands for containers e.g. `docker run alpine ls -l`
+* `run -it {container} {cmd}`: run a command in interactive terminal.
+* `pull`: pull the image from the docker registry to your local repository. e.g. `docker pull alpine`
+* `images`: List all images you have downloaded
+* `ps`: show active docker containers
+* `ps -a`: history of all commands run previously
