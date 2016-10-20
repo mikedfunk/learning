@@ -5,10 +5,11 @@
 * [docker-compose](https://docs.docker.com/compose/overview/): A tool for defining and running multi-container docker applications
 * [docker-machine](https://docs.docker.com/machine/): An older tool that creates a docker environment in a virtualbox VM. Native is available for mac now, so it's not needed.
 * [boot2docker](http://boot2docker.io/): The old way to install a lightweight linux version with docker and macosx (or others) on top of that. Or something. Now it's deprecated in favor of the native mac, etc. client.
+* [docker labs](https://github.com/docker/labs): A cool tutorial to learn docker on github.
 
 ## Commands
 
 `docker {cmd}`
 
-* **run** pull the related image from docker hub, create a new container for that image, run the executable defined. e.g. `docker run hello-world`
-* **pull** pull the image from the docker registry to your local repository. e.g. `docker pull alpine`
+* **run**: pull the related image from docker hub, create a new container for that image, run the executable defined. e.g. `docker run hello-world`
+* **pull**: pull the image from the docker registry to your local repository. e.g. `docker pull alpine`
