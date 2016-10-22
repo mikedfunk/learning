@@ -8,11 +8,11 @@ From insert mode:
 * `<c-x><c-l>` whole line completion e.g. start at the beginning of a line, type a few chars from the beginning of another line, and hit the key combo. It will complete the entire other line!
 * `<c-x><c-f>` file completion
 * `<c-x><c-]` tag completion
+* `<c-n>` next match from document for word under cursor
+* `<c-p>` previous match from document for word under the cursor
 
 ## Sort of meta-completion
 
-* `<c-n>` next match for word under cursor
-* `<c-p>` previous match for word under the cursor
 * `<c-x><c-n>` expands the completion to include the next _word_.
 * `<c-x><c-p>` expands the completion to include the previous _word_.
 
