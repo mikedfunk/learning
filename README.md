@@ -4,6 +4,7 @@ Learn something new every day.
 
 * [Composer](#composer)
 * [Docker](#docker)
+* [Google Tag Manager](#google-tag-manager)
 * [Linux](#linux)
 * [PhpUnit](#phpunit)
 * [Tmux](#tmux)
@@ -17,6 +18,10 @@ Learn something new every day.
 ## Docker
 
 * 2016-10-06 [Docker terminology](docker/terminology.md)
+
+## Google Tag Manager
+
+* 2016-10-27 [Tags and Variables](gtm/tags_and_variables.md)
 
 ## Linux
 
