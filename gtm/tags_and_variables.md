@@ -13,7 +13,7 @@ Go to the tags tab, click new, type: Custom HTML, something like this:
 ```html
 <script>
 coolApi.send({
-  "thing1": "{{myvar1}}}",
+  "thing1": "{{myvar1}}",
   "thing2": "{{myvar2}}"
 });
 </script>
