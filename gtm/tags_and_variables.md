@@ -4,7 +4,7 @@ If you need to send data from your site to an api via an api call, you can send 
 
 ## 1. Install GTM
 
-Go to [tag manager](tagmanager.google.com), click the GTM-XXXXXX link at the top right next to publish. It will give you a script tag to paste into your site template.
+Go to [tag manager](tagmanager.google.com), click the *GTM-XXXXXX* link at the top right next to publish. It will give you a script tag to paste into your site template.
 
 ## 2. Add GTM variables
 
