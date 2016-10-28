@@ -4,7 +4,7 @@
 
 * `/[abc]` will search for `a`, `b`, or `c`
 
-## ranges
+## Ranges
 
 * `:10,20s/replaceme/new/g` replace `replaceme` with `new` on lines 10-20
 
