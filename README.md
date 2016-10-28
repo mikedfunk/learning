@@ -21,7 +21,7 @@ Learn something new every day.
 
 ## Google Tag Manager
 
-* 2016-10-27 [Tags and Variables](gtm/tags_and_variables.md)
+* 2016-10-27 [Tags, Variables, and the Data Layer](gtm/tags_and_variables.md)
 
 ## Linux
 
