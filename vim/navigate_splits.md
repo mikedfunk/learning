@@ -23,6 +23,6 @@
 * `CTRL-W w` go to N next window (wrap around)
 * `CTRL-W x` exchange current window with window N (default: next window)
 * `CTRL-W z` close preview window
-* `CTRL-W |` set window width to N columns
+* `CTRL-W |` zoom the split horizontally
+* `CTRL-W _` zoom the split vertically
 * `CTRL-W }` show tag under cursor in preview window
-
