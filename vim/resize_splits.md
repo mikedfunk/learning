@@ -20,3 +20,5 @@ These also take multipliers so you can do `<c-w> 10 -`. You can do it the other 
 * `<c-w> }` show tag under cursor in preview window
 * `<c-w> z` close preview window
 * Navigate splits with `<c-w>` then `hjkl`
+* `<c-w> v` open vertical split
+* `<c-w> <shift>S` open horizontal split
