@@ -7,7 +7,7 @@ Vim has integration with ctags. You can generate tags for your project by runnin
 * `<c-}>` open the tag definition under cursor in a preview window (`<c-w>z` to close preview when done)
 * `<c-w>]` jump to tag definition in a horizontal split
 * `:tag myTag` open tag definition for `myTag` in current window. Goes to first match.
-* `:tag /myTag` fuzzy search for `myTag`
+* `:tag /myTag` fuzzy search for `myTag`. You can also do regex searches like `:tag /^myTag`
 * `:tags` show the current tag navigation stack
 * `:ts[elect] myTag` shows all tags for `myTag`, asking you to choose the one you want. Doesn't fuzzy search unfortunately, only exact matches.
 * `:sts[elect] myTag` same as above but splits window when tag is selected
