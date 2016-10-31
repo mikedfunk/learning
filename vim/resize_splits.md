@@ -15,7 +15,7 @@ These also take multipliers so you can do `<c-w> 10 -`. You can do it the other 
 * `<c-w> _` to maximize a horizontal split
 * `<c-w> |` to maximize a vertical split
 * `<c-w> =` to equalize windows
-* `<c-w> O` to close other splits (still in buffers)
+* `<c-w> o` to close other splits (still in buffers)
 * `<c-w> ]` jump to tag in horizontal split
 * `<c-w> }` show tag under cursor in preview window
 * `<c-w> z` close preview window
