@@ -46,6 +46,7 @@ Learn something new every day.
 * 2016-10-10 [Navigate splits, windows, etc. with ctrl-w](vim/navigate_splits.md)
 * 2016-10-10 [Go to variable definition](vim/go_to_var_def.md)
 * 2016-10-27 [Regex Search, Ranges, and Replace](vim/regex_search.md)
+* 2016-10-31 [Working with Tags](vim/tags.md)
 
 ## CLI Tools
 
