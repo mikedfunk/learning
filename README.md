@@ -52,3 +52,4 @@ Learn something new every day.
 
 * 2016-10-05 [Noti: system notifier](cli_tools/noti.md)
 * 2016-11-01 [make ssh-add survive reboots on mac](cli_tools/mac_ssh_add.md)
+* 2016-11-01 [launch a simple static http server](cli_tools/http_server.md)
