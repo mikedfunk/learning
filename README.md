@@ -51,4 +51,4 @@ Learn something new every day.
 ## CLI Tools
 
 * 2016-10-05 [Noti: system notifier](cli_tools/noti.md)
-* 2016-11-1 [make ssh-add survive reboots on mac](cli_tools/mac_ssh_add.md)
+* 2016-11-01 [make ssh-add survive reboots on mac](cli_tools/mac_ssh_add.md)
