@@ -3,6 +3,8 @@
 ## Regular expressions in search
 
 * `/[abc]` will search for `a`, `b`, or `c`
+* `/^abc` will search for `abc123`, `abc456`, or `abc`
+* `/\d` will search for `1`, `2565`
 
 ## Ranges
 
