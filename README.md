@@ -55,3 +55,4 @@ Learn something new every day.
 * 2016-11-01 [launch a simple static http server](cli_tools/http_server.md)
 * 2016-11-02 [run a command when anything in a directory changes](cli_tools/watch.md)
 * 2016-11-08 [cut](cli_tools/cut.md)
+* 2016-11-10 [find](cli_tools/find.md)
