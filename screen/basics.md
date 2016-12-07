@@ -27,4 +27,6 @@ hardstatus alwayslastline
 hardstatus string "%w"
 # ensure vim doesn't stay in the scrollback when exiting
 altscreen on
+# Enable mouse scrolling and scroll bar history scrolling
+termcapinfo xterm* ti@:te@
 ```
