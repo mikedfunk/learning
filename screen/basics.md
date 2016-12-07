@@ -9,6 +9,7 @@
 * `screen -ls` show running sessions
 * `screen -x mysessionname` attach to session by name
 * `screen -d` detach session
+* `screen -dAR mysessionname` detach any other screens attached to named session mysessionname and attach to it. create it if necessary.
 
 ## Windows
 
