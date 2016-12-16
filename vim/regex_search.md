@@ -5,6 +5,7 @@
 * `/[abc]` will search for `a`, `b`, or `c`
 * `/^abc` will search for `abc123`, `abc456`, or `abc`
 * `/\d` will search for `1`, `2565`
+* not regex but `:%s/background/&-color` will replace all *background* with *background-color*
 
 ## Ranges
 
