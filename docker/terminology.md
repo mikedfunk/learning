@@ -16,4 +16,19 @@
 * `pull`: pull the image from the docker registry to your local repository. e.g. `docker pull alpine`
 * `images`: List all images you have downloaded
 * `ps`: show active docker containers
-* `ps -a`: history of all commands run previously
+* `ps -a`: like ps but including containers not running
+* `stats`: memory usage for containers by container id
+
+`docker-compose {cmd}`
+
+* `up`: compose docker containers and provision them.
+ * `--force-recreate`: otherwise will just pause and resume
+ * `-d`: in the background. otherwise will be in foreground and show all logs from containers in output
+
+`docker-machine {cmd}`
+
+* `start`
+* `stop`
+* `restart`
+* `status` whether it's running (text)
+* `upgrade` get latest Boot2Docker on the vm
