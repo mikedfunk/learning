@@ -2,6 +2,7 @@
 
 Learn something new every day.
 
+* [TODO](#todo)
 * [Composer](#composer)
 * [Docker](#docker)
 * [Google Tag Manager](#google-tag-manager)
@@ -11,6 +12,21 @@ Learn something new every day.
 * [Tmux](#tmux)
 * [Vim](#vim)
 * [CLI Tools](#cli-tools)
+
+## TODO
+
+My list of things to learn
+
+* create webpack config from scratch
+* create docker-compose system from scratch
+* redux
+* digital ocean droplets <-> docker containers
+* mongo in more depth
+* graphql api from scratch
+* oauth server and client system with react api consumer
+* laravel 5
+* puppet
+* chef
 
 ## Composer
 
