@@ -27,6 +27,10 @@ My list of things to learn
 * laravel 5
 * puppet
 * chef
+* Circle CI
+* travis with containers
+* sauce labs
+* behat
 
 ## Composer
 
