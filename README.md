@@ -33,6 +33,7 @@ My list of things to learn
 * behat
 * flexbox
 * vue
+* github pull request test passing integration
 
 ## Composer
 
