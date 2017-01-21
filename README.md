@@ -32,6 +32,7 @@ My list of things to learn
 * sauce labs
 * behat
 * flexbox
+* vue
 
 ## Composer
 
