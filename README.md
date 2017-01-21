@@ -31,6 +31,7 @@ My list of things to learn
 * travis with containers
 * sauce labs
 * behat
+* flexbox
 
 ## Composer
 
