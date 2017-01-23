@@ -33,6 +33,8 @@ My list of things to learn
 * behat
 * flexbox
 * vue
+ * vuex
+ * vue router
 * github pull request test passing integration
 
 ## Composer
