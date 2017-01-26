@@ -36,6 +36,7 @@ My list of things to learn
  * vuex
  * vue router
 * github pull request test passing integration
+* how to use kibana
 
 ## Composer
 
