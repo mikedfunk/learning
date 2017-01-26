@@ -7,6 +7,7 @@
 * `/\d` will search for `1`, `2565`
 * :%s/\(background\)/\1-color will replace all *background* with *background-color*
 * not regex but `:%s/background/&-color` will also replace all *background* with *background-color*
+* `:%s/&/\r/g` will replace & with `<cr>`.
 
 ## Ranges
 
