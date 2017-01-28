@@ -26,3 +26,4 @@
 * `CTRL-W |` zoom the split horizontally
 * `CTRL-W _` zoom the split vertically
 * `CTRL-W }` show tag under cursor in preview window
+* `CTRL-W <shift>T` Open current split in a new tab
