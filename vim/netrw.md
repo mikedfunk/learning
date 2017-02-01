@@ -16,5 +16,11 @@
 * `R` will rename a directory/file _(be sure to leave the / on the end if it's a directory)_
 * `-` will go up one
 * `<cr>` will expand/contract the current directory
+* `<c-l>` reload the current directory
+* `mf` mark a file
+* `md` mark a directory
+* `mt` set mark target directory
+* `mc` copy marked files to marked target directory
+* `mm` move marked files to marked target directory
 
 [More stuff](https://gist.github.com/t-mart/610795fcf7998559ea80) or just `:help netrw`
