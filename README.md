@@ -18,7 +18,7 @@ Learn something new every day.
 My list of things to learn
 
 * create webpack config from scratch
-* create docker-compose system from scratch
+* -create docker-compose system from scratch-
 * redux
 * digital ocean droplets <-> docker containers
 * mongo in more depth
