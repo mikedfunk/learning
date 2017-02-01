@@ -78,6 +78,8 @@ My list of things to learn
 * 2016-10-10 [Go to variable definition](vim/go_to_var_def.md)
 * 2016-10-27 [Regex Search, Ranges, and Replace](vim/regex_search.md)
 * 2016-10-31 [Working with Tags](vim/tags.md)
+* 2017-01-31 [Using the NetRW File Browser](vim/netrw.md)
+* 2017-01-31 [Using Vim Help](vim/help.md)
 
 ## CLI Tools
 
