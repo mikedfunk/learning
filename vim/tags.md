@@ -18,6 +18,6 @@ Vim has integration with ctags. You can generate tags for your project by runnin
 command! -nargs=1 Vtselect vsp | exec 'tselect ' . <f-args>
 ```
 
-* `g]` like `<c-]` but use tselect instead of tag
+* `g]` like `<c-]>` but use tselect instead of tag
 * `:tj[ump] myTag` like tselect but jumps to it if only one match.
 * `:stj myTag` ... in a split
