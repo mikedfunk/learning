@@ -11,6 +11,19 @@ Vim has integration with ctags. You can generate tags for your project by runnin
 * `:tags` show the current tag navigation stack
 * `:ts[elect] myTag` shows all tags for `myTag`, asking you to choose the one you want. Doesn't fuzzy search unfortunately, only exact matches. BUT you can fuzzy search with `:tselect /PartOfTag`
 * `:sts[elect] myTag` same as above but splits window when tag is selected
+* `Vtselect` command:
+
+
+```vim
+" like stselect but for vertical split e.g. :Vtselect /MyPartialTag
+function! Vtselect(my_args)
+    vsp
+    exec 'tselect ' . a:my_args
+endfunction
+command! -nargs=1 Vtselect call Vtselect(<f-args>)
+```
+
+
 * `g]` like `<c-]` but use tselect instead of tag
 * `:tj[ump] myTag` like tselect but jumps to it if only one match.
 * `:stj myTag` ... in a split
