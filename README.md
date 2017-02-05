@@ -22,27 +22,27 @@ Learn something new every day.
 
 My list of things to learn
 
-* -create webpack config from scratch-
-* -create docker-compose system from scratch-
-* redux
-* digital ocean droplets <-> docker containers
-* mongo in more depth
-* create and use a graphql api from scratch
-* oauth server and client system with react api consumer
-* laravel 5
-* puppet
-* chef
-* Circle CI
-* travis with containers
-* sauce labs
-* behat
-* -codeceptjs-
-* flexbox
-* -vue-
-* vuex
-* -vue router-
-* github pull request test passing integration
-* how to use kibana
+- [x] create webpack config from scratch
+- [x] create docker-compose system from scratch
+- [ ] redux
+- [ ] digital ocean droplets <-> docker containers
+- [ ] mongo in more depth
+- [ ] create and use a graphql api from scratch
+- [ ] oauth server and client system with react api consumer
+- [ ] laravel 5
+- [ ] puppet
+- [ ] chef
+- [ ] Circle CI
+- [ ] travis with containers
+- [ ] sauce labs
+- [ ] behat
+- [x] codeceptjs
+- [ ] flexbox
+- [x] vue
+- [ ] vuex
+- [x] vue router
+- [ ] github pull request test passing integration
+- [ ] how to use kibana
 
 ## Composer
 
