@@ -2,6 +2,7 @@
 
 Learn something new every day.
 
+* [Coding Forms](#coding_forms)
 * [TODO](#todo)
 * [Composer](#composer)
 * [Docker](#docker)
@@ -12,6 +13,21 @@ Learn something new every day.
 * [Tmux](#tmux)
 * [Vim](#vim)
 * [CLI Tools](#cli-tools)
+
+## Coding Forms
+
+Aka "coding katas" but in kung fu they're called forms.
+
+* Create a dockerfile that runs nginx and php, build it, and run it with an example `hello-world.php`
+* Create a laravel app
+* Create a vue app
+* Create a basic webpack file that compiles js modules and uses babel to transpile ES2015. Get it working with a hello world example.
+* Serve a php app with the built-in php server from a random location on a random port
+
+### Coding forms to learn...
+
+* Create a hello world react app
+* Create a webpack file
 
 ## TODO
 
