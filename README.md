@@ -2,7 +2,7 @@
 
 Learn something new every day.
 
-* [Coding Forms](#coding_forms)
+* [Coding Exercises](#coding_exercises)
 * [TODO](#todo)
 * [Composer](#composer)
 * [Docker](#docker)
@@ -14,31 +14,20 @@ Learn something new every day.
 * [Vim](#vim)
 * [CLI Tools](#cli-tools)
 
-## Coding Forms
+## Coding Exercises
 
-Aka "coding katas" but in kung fu they're called forms.
-
-* Create a dockerfile that runs nginx and php, build it, and run it with an example `hello-world.php`
-* Create a laravel app
-* Create a vue app
-* Create a basic webpack file that compiles js modules and uses babel to transpile ES2015. Get it working with a hello world example.
-* Serve a php app with the built-in php server from a random location on a random port
-
-### Coding forms to learn...
-
-* Create a hello world react app
-* Create a webpack file
+* Moved [here](https://github.com/mikedfunk/coding-exercises)
 
 ## TODO
 
 My list of things to learn
 
-* create webpack config from scratch
+* -create webpack config from scratch-
 * -create docker-compose system from scratch-
 * redux
 * digital ocean droplets <-> docker containers
 * mongo in more depth
-* graphql api from scratch
+* create and use a graphql api from scratch
 * oauth server and client system with react api consumer
 * laravel 5
 * puppet
@@ -47,10 +36,11 @@ My list of things to learn
 * travis with containers
 * sauce labs
 * behat
+* -codeceptjs-
 * flexbox
-* vue
- * vuex
- * vue router
+* -vue-
+* vuex
+* -vue router-
 * github pull request test passing integration
 * how to use kibana
 
