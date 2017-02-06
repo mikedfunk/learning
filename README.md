@@ -8,6 +8,7 @@ Learn something new every day.
 * [Docker](#docker)
 * [Google Tag Manager](#google-tag-manager)
 * [Linux](#linux)
+* [Php](#php)
 * [PhpUnit](#phpunit)
 * [Screen](#screen)
 * [Tmux](#tmux)
@@ -59,6 +60,11 @@ My list of things to learn
 ## Linux
 
 * 2016-09-30 [Set priority of cron tasks](linux/nice.md)
+
+## PHP
+
+* 2017-02-06 [Whitelist array keys](php/whitelist.md)
+* 2017-02-06 [Filter by method](php/filter_by_method.md)
 
 ## PhpUnit
 
