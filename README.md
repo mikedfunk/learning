@@ -97,3 +97,4 @@ My list of things to learn
 * 2016-11-02 [run a command when anything in a directory changes](cli_tools/watch.md)
 * 2016-11-08 [cut](cli_tools/cut.md)
 * 2016-11-10 [find](cli_tools/find.md)
+* 2017-02-06 [ipconfig](cli_tools/ipconfig.md)
