@@ -9,6 +9,8 @@ Learn something new every day.
 * [Google Tag Manager](#google-tag-manager)
 * [Linux](#linux)
 * [Php](#php)
+* [PhpCS](#phpcs)
+* [PhpMD](#phpmd)
 * [PhpUnit](#phpunit)
 * [Screen](#screen)
 * [Tmux](#tmux)
@@ -65,6 +67,14 @@ My list of things to learn
 
 * 2017-02-06 [Whitelist array keys](php/whitelist.md)
 * 2017-02-06 [Filter by method](php/filter_by_method.md)
+
+## PHPCS
+
+* 2017-02-13 [Configuring and running](phpcs/config.md)
+
+## PHPMD
+
+* 2017-02-13 [Configuring and running](phpmd/config.md)
 
 ## PhpUnit
 
