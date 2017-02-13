@@ -26,6 +26,6 @@ e.g. save this in `phpmd.xml`:
 
 Then run it manually to test via: 
 ```sh
-phpcs /path/to/MyPhpFile.php
+phpcs /path/to/MyPhpFile.php -s
 ```
-where `text` is the reporter.
+where `text` is the reporter. `-s` will show sniff codes to enter in config!
