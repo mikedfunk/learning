@@ -46,6 +46,7 @@ My list of things to learn
 - [x] vue router
 - [ ] github pull request test passing integration
 - [ ] how to use kibana
+- [ ] [postgresql](https://egghead.io/courses/get-started-with-postgres-sql) and [window functions](https://egghead.io/courses/use-window-functions-in-postgres)
 
 ## Composer
 
