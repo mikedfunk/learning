@@ -32,7 +32,7 @@ My list of things to learn
 - [ ] mongo in more depth
 - [ ] create and use a graphql api from scratch
 - [ ] oauth server and client system with react api consumer
-- [ ] laravel 5
+- [x] laravel 5
 - [ ] puppet
 - [ ] chef
 - [ ] Circle CI
