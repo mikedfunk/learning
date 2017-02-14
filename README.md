@@ -49,6 +49,7 @@ My list of things to learn
 - [ ] how to use kibana
 - [ ] [postgresql](https://egghead.io/courses/get-started-with-postgres-sql) and [window functions](https://egghead.io/courses/use-window-functions-in-postgres)
 - [ ] [ansible](https://serversforhackers.com/an-ansible-tutorial)
+- [ ] js fetch and polyfill
 
 ## Composer
 
