@@ -1,7 +1,7 @@
 ## php-cs-fixer config
 
 in `.php_cs`:
-```
+```php
 <?php
 
 $finder = PhpCsFixer\Finder::create()
@@ -19,5 +19,5 @@ return PhpCsFixer\Config::create()
     ->setFinder($finder)
 ;
 NOTE: exclude will work only for directories, so if you need to exclude file, try notPath.
-
+```
 See [Symfony\Finder](http://symfony.com/doc/current/components/finder.html) online documentation for other Finder methods.
