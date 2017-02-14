@@ -18,8 +18,9 @@ return PhpCsFixer\Config::create()
     ))
     ->setFinder($finder)
 ;
-NOTE: exclude will work only for directories, so if you need to exclude file, try notPath.
 ```
+NOTE: exclude will work only for directories, so if you need to exclude file, try notPath.
+
 See [Symfony\Finder](http://symfony.com/doc/current/components/finder.html) online documentation for other Finder methods.
 
 [More docs](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
