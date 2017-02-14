@@ -9,6 +9,7 @@ Learn something new every day.
 * [Google Tag Manager](#google-tag-manager)
 * [Linux](#linux)
 * [Php](#php)
+* [Php CS Fixer](#php-cs-fixer)
 * [PhpCS](#phpcs)
 * [PhpMD](#phpmd)
 * [PhpUnit](#phpunit)
@@ -68,6 +69,10 @@ My list of things to learn
 
 * 2017-02-06 [Whitelist array keys](php/whitelist.md)
 * 2017-02-06 [Filter by method](php/filter_by_method.md)
+
+## PHP CS Fixer
+
+* 2017-02-13 [Configuring](php-cs-fixer/config.md)
 
 ## PHPCS
 
