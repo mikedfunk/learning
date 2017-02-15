@@ -9,3 +9,7 @@ In python3 it's different:
 ```sh
 python3 -m http.server 8000
 ```
+
+Alternatives:
+* `php -S localhost:8000`
+* `serve (npm install serve)`
