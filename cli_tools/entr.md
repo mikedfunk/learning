@@ -16,5 +16,7 @@ noglob ls src/**/*.php tests/**/*.php | entr -c phpunit --colors
 [docs](http://entrproject.org/)
 
 Alternatives:
-* [watchr](https://github.com/mynyml/watchr) (ruby gem)
-* [chokidar](https://www.npmjs.com/package/chokidar-cli) (no color output)
+* [watchr](https://github.com/mynyml/watchr) ruby gem
+* [chokidar](https://www.npmjs.com/package/chokidar-cli) on npm - no color output
+* [watch](https://github.com/mikeal/watch) on npm - conflicts with linux watch (`brew install watch`)
+* [watchman](https://facebook.github.io/watchman/) on npm, from facebook - requires json config :/
