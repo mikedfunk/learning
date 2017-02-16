@@ -27,3 +27,5 @@ Prefix is by default `<c-b>` but I change mine to `<c-a>`.
 * `<prefix> }` move pane right/down
 * `<prefix> {` move pane left/up
 * `<prefix> q` show pane numbers, type number to go to that pane
+
+If you see a `*M` on the end of a pane, it's because that pane is "marked". You can unmark it with `<prefix> m`. [More info](http://superuser.com/questions/1056977/uppercase-m-at-the-right-of-window-name-in-tmux)
