@@ -7,6 +7,7 @@ Learn something new every day.
 * [Composer](#composer)
 * [Docker](#docker)
 * [Google Tag Manager](#google-tag-manager)
+* [JavaScript](#javascript)
 * [Linux](#linux)
 * [Php](#php)
 * [Php CS Fixer](#php-cs-fixer)
@@ -63,6 +64,11 @@ My list of things to learn
 ## Google Tag Manager
 
 * 2016-10-27 [Tags, Variables, and the Data Layer](gtm/tags_and_variables.md)
+
+## JavaScript
+
+* 2017-02-20 [Flowtype setup](javascript/flowtype_setup.md)
+* 2017-02-20 [Unit testing with Mocha and Chai](javascript/mocha_setup.md)
 
 ## Linux
 
