@@ -10,6 +10,7 @@ import Head from '../Head'
 import Arm from '../Arm'
 
 it('greets - stub', () => {
+  // this is most useful when just just want to set what it returns
   let sandbox = sinon.sandbox.create()
   sandbox.stub(Head.prototype, 'nod', () => 'nods')
   sandbox.stub(Arm.prototype, 'wave', () => 'waves')
@@ -21,19 +22,24 @@ it('greets - stub', () => {
 })
 
 it('greets - mock', () => {
-  let sandbox = sinon.sandbox.create()
-  sandbox.mock(Head.prototype).expects('nod').once()
-  sandbox.mock(Arm.prototype).expects('wave').once()
+  // this is more useful when something just needs to be called x number of
+  // times, optionally with args, but you don't care what it returns
+  let headNodMock = sinon.mock(Head.prototype).expects('nod').once()
+  let armWaveMock = sinon.mock(Arm.prototype).expects('wave').once()
   const head = new Head()
   const arm = new Arm()
   const person = new Person(head, arm)
-  expect(person.greet()).to.equal(', ')
-  sandbox.restore()
+  const result = person.greet()
+  expect(result).to.equal(', ')
+  headNodMock.verify()
+  armWaveMock.verify()
+  Head.prototype.nod.restore()
+  Arm.prototype.wave.restore()
 })
 
 it('greets - stub instance', () => {
-  // another way: this is not as useful but shows it automatically stubs all
-  // methods to return nothing
+  // this just stubs all methods to return nothing. not that useful because you
+  // can't specify what they return!
   const head = sinon.createStubInstance(Head)
   const arm = sinon.createStubInstance(Arm)
   const person = new Person(head, arm)
@@ -41,15 +47,16 @@ it('greets - stub instance', () => {
 })
 
 it('greets - spy', () => {
-  let sandbox = sinon.sandbox.create()
-  sandbox.spy(Head.prototype, 'nod')
-  sandbox.spy(Arm.prototype, 'wave')
+  // like mocking but should haves are at the end
+  sinon.spy(Head.prototype, 'nod')
+  sinon.spy(Arm.prototype, 'wave')
   const head = new Head()
   const arm = new Arm()
   const person = new Person(head, arm)
   person.greet()
   expect(arm.wave.called)
   expect(head.nod.called)
-  sandbox.restore()
+  Head.prototype.nod.restore()
+  Arm.prototype.wave.restore()
 })
 ```
