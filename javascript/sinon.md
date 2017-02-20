@@ -1,4 +1,4 @@
-# Mocking with Sinon
+# Mocking with [Sinon](http://sinonjs.org/)
 
 Example mocha test:
 ```javascript
