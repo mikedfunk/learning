@@ -44,12 +44,13 @@ My list of things to learn
 - [ ] flexbox
 - [x] vue
 - [ ] vuex
+- [x] flowtype
 - [x] vue router
 - [ ] github pull request test passing integration
 - [ ] how to use kibana
 - [ ] [postgresql](https://egghead.io/courses/get-started-with-postgres-sql) and [window functions](https://egghead.io/courses/use-window-functions-in-postgres)
 - [ ] [ansible](https://serversforhackers.com/an-ansible-tutorial)
-- [ ] js fetch and polyfill
+- [x] js [fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) and [polyfill](https://github.com/github/fetch)
 
 ## Composer
 
