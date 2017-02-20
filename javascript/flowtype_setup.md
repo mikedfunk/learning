@@ -5,6 +5,7 @@ Without all the bullshit.
 ```sh
 yarn add --dev flow
 yarn add --dev flow-bin
+yarn add --dev flow-typed
 yarn add --dev babel-plugin-transform-flow-strip-types
 ```
 
@@ -13,6 +14,11 @@ yarn add --dev babel-plugin-transform-flow-strip-types
 [ignore]
 .*/node_modules/fbjs/.*
 .*/git/.*
+```
+
+set up [flow typed](https://github.com/flowtype/flow-typed/#huh):
+```
+./node_modules/.bin/flow-typed intstall
 ```
 
 add this to your `.babelrc`:
