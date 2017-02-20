@@ -68,7 +68,9 @@ My list of things to learn
 ## JavaScript
 
 * 2017-02-20 [Flowtype setup](javascript/flowtype_setup.md)
+* 2017-02-20 [Dependency Injection setup](javascript/di_setup.md)
 * 2017-02-20 [Unit testing with Mocha and Chai](javascript/mocha_setup.md)
+* 2017-02-20 [Mocking, stubbing, and spying with Sinon](javascript/sinon.md)
 
 ## Linux
 
