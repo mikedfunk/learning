@@ -71,6 +71,7 @@ My list of things to learn
 * 2017-02-20 [Dependency Injection setup](javascript/di_setup.md)
 * 2017-02-20 [Unit testing with Mocha and Chai](javascript/mocha_setup.md)
 * 2017-02-20 [Mocking, stubbing, and spying with Sinon](javascript/sinon.md)
+* 2017-02-20 [Mocking require and import in testing with proxyquire](javascript/proxyquire_setup.md)
 
 ## Linux
 
