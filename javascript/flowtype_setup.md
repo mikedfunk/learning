@@ -53,7 +53,7 @@ and add it to your `extends` in your `.eslintrc.json`:
 
 ## OPTIONAL eslint config - the hard way through babel
 
-Added benefit - eslint itself actually checks for flow errors, so no need for another checker
+Added benefit - eslint itself actually checks for flow errors, so no need for another checker. This is not needed if you're just going by an eslint config because the eslint config abstracts `eslint-plugin-flowtype` to turn rules on and off.
 
 ```sh
 yarn add --dev eslint
@@ -83,7 +83,7 @@ yarn add --dev eslint-plugin-flowtype-errors
 }
 ```
 
-You can adjust flow rules - see the [docs for this plugin](https://github.com/gajus/eslint-plugin-flowtype).
+You can adjust flow rules with either method (easy or hard) - see the [docs for this plugin](https://github.com/gajus/eslint-plugin-flowtype).
 
 -----
 
@@ -95,5 +95,5 @@ You can adjust flow rules - see the [docs for this plugin](https://github.com/ga
 
 ## What's the difference between `eslint-plugin-flowtype` and `eslint-plugin-flowtype-errors`?
 
-* [eslint-plugin-flowtype](https://www.npmjs.com/package/eslint-plugin-flowtype) provides some additional linting rules for flowtype that you can turn off/on. It's kind of weird because I would expect that to be in a standard like [eslint-config-standard-flow](https://www.npmjs.com/package/eslint-config-standard-flow). It does not do anything with `flow-bin`.
-* [eslint-plugin-flowtype-errors](https://www.npmjs.com/package/eslint-plugin-flowtype-errors) actually displays flowtype errors through eslint. It checks errors in `flow-bin`.
+* [eslint-plugin-flowtype](https://www.npmjs.com/package/eslint-plugin-flowtype) provides some additional linting rules for flowtype that you can turn off/on. It's usually used by a eslint config like [eslint-config-standard-flow](https://www.npmjs.com/package/eslint-config-standard-flow), and individual rules are toggled in the packaged eslint config. It does not do anything with `flow-bin`.
+* [eslint-plugin-flowtype-errors](https://www.npmjs.com/package/eslint-plugin-flowtype-errors) actually displays flowtype errors through eslint. It checks errors in `flow-bin`. It's not necessary if you just add flow as a checker in syntastic or use the flow plugin in sublime.
