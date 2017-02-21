@@ -1,6 +1,6 @@
 ## Mocking require and import in testing with proxyquire
 
-Want to swap out mocks, spies, or stubs for js dependencies in testing? Of course you do! And it's _sooo_ easy. You don't have to change *any* of your code! No service containers in modules, no decorators, no string service container definitions to resolve, just `import` or `require`! Downside is it's not a real di container. You can't set project-wide mappings. It's just for swapping require in testing. But it's so little effort for such a helpful element of the usual DI! 
+Want to swap out mocks, spies, or stubs for js dependencies in testing? Of course you do! And it's _sooo_ easy. You don't have to change *any* of your code! No service container code in your modules, no decorators, no string service container definitions to resolve, just `import` or `require` like it was before! Downside is it's not a real di container. You can't set project-wide mappings. It's just for swapping require in testing. But it's so little effort for such a helpful element of the usual DI! 
 
 This is the coolest thing ever:
 ```sh
