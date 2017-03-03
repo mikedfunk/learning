@@ -14,3 +14,9 @@ If you don't want to confirm each one:
 :argdo %s/replaceme/NEW_TEXT/g <-- replace without confirm
 :argdo update
 ```
+
+Also screw all of this - Vim 7.3 now has `cdo` to operate on files in quickfix:
+```
+:grep myterm
+:cdo s/myterm/newterm/gc | update
+```
