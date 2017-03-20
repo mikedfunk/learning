@@ -4,6 +4,6 @@ One way to use awk is to pipe a string to it, then break it into parts delimited
 
 ```sh
 echo 'Yo hey' | awk -F' ' '{print $1}' # <-- prints Yo
-echo 'Yo hey' | awk -F' ' '{print $2 $2}' # <-- prints hey Yo
+echo 'Yo hey' | awk -F' ' '{print $2 $1}' # <-- prints hey Yo
 echo 'Yo hey' | awk -F' ' '{print $1 "hithere" $2}' # <-- prints Yo hithere hey
 ```
