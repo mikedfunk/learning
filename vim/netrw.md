@@ -19,10 +19,21 @@
 * `-` will go up one
 * `<cr>` will expand/contract the current directory
 * `<c-l>` reload the current directory
+
+## Marking
+You can mark files/dirs and do batch actions on them:
 * `mf` mark a file
 * `md` mark a directory
 * `mt` set mark target directory
 * `mc` copy marked files to marked target directory
 * `mm` move marked files to marked target directory
+* `mv` apply vim command to marked files (will prompt for command)
+* `mx` apply shell command to marked files
+* `mT` generate tags using marked files
+* `mz` compress/decompress marked files
+* `R` rename marked files
+* `D` delete marked files
+* `mb` append marked files to bookmarks
+* `mB` delete marked files from bookmarks
 
 [More stuff](https://gist.github.com/t-mart/610795fcf7998559ea80) or just `:help netrw`
