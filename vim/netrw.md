@@ -10,6 +10,7 @@
 * `o` will open in a horizontal split
 * `t` will open in a new tab
 * `p` will preview the file
+* `P` will opein in previous split
 * `a` will cycle through visibility settings
 * `D` will delete the current file/folder
 * `%` will create a file
