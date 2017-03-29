@@ -1,8 +1,9 @@
 # NetRW
 
 * You can use it like NERDTree's `<leader>nt` _(go to current file's directory in a left split)_ with `:Vex` then `P` to open the file in the previous split then `<c-w>o` to close all splits but the current one.
+* Or like NERDTree's `<c-e>` _(go to :pwd in left split)_: `:Le` to toggle browser open, hit enter to open in previous split, `:Le` to toggle browser closed. NOTE: if you change dirs in the split, you won't be able to toggle closed. :(
+* Or stop trying to use the file browser split. Just `:e .` for pwd or `:e %:p:h` for current file dir, then enter over a file you want to open. No need to manage the split or deal with bugs if changing dirs.
 * `:Vex!` will open in a right split
-* Same thing for `:Lex` to toggle vim's *project root directory* in a left split. Enter will open in the previous split and `:Le` again will close the file browser.
 * `:Lex!` for a right split
 * `v` will open in a vertical split
 * `I` will toggle the top help bar
