@@ -1,10 +1,8 @@
 # NetRW
 
 * You can use it like NERDTree's `<leader>nt` _(go to current file's directory in a left split)_ with `:Vex` then `P` to open the file in the previous split then `<c-w>o` to close all splits but the current one.
-* Easier way - open the explorer with `:Le(xplore)`, hit enter on your file, then `:Le` again to close the explorer.
- * here's a mapping to do that in one shot: ```au! FileType netrw nmap <buffer> <leader>o <cr>:Lex<cr>```
 * `:Vex!` will open in a right split
-* Same thing for `:Lex` to open vim's project root directory in a left split.
+* Same thing for `:Lex` to toggle vim's *project root directory* in a left split. Enter will open in the previous split and `:Le` again will close the file browser.
 * `:Lex!` for a right split
 * `v` will open in a vertical split
 * `I` will toggle the top help bar
