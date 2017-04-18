@@ -39,4 +39,7 @@ You can also search for file (and matching line) by ctag:
 ```
 :tselect PartOfTagName
 ```
-You'll get a list of matches. Hit the matching number to jump there.
+You'll get a list of matches. Hit the matching number to jump there. If you want to jump the first match if one is found, use:
+```
+:tjump PartOfTagName
+```
