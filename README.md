@@ -104,6 +104,7 @@ My list of things to learn
 * 2017-01-31 [Using Vim Help](vim/help.md)
 * 2017-02-01 [Finding files](vim/finding_files.md)
 * 2017-02-01 [Search and Replace In Multiple Files](vim/search_and_replace.md)
+* 2017-04-24 [Edit files on remote servers via scp](vim/scp.md)
 
 ## Web Services
 
