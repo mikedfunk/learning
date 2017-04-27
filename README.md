@@ -61,6 +61,7 @@ My list of things to learn
 * 2017-02-15 [substitute env vars in a file](cli_tools/envsusbtr.md)
 * 2016-12-06 [Gnu Screen basics](screen/basics.md)
 * 2016-10-11 [Tmux Windows and Panes](tmux/windows_and_panes.md)
+* 2017-04-26 [Compress and Decompress Files/Folders](cli_tools/tar.md)
 
 ## Docker
 
