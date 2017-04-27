@@ -6,4 +6,6 @@ tar -zcvf myarchive.tgz myfile.txt myotherfolder
 ```
 
 decompress (will put all files/folders in same directory, overwriting):
+```sh
 tar -zxvf myarchive.tgz
+```
