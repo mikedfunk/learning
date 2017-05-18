@@ -7,7 +7,7 @@ From insert mode:
 * `<c-x><c-o>` omnicompletion from your omnifunc in alphabetical order
 * `<c-x><c-l>` whole line completion e.g. start at the beginning of a line, type a few chars from the beginning of another line, and hit the key combo. It will complete the entire other line!
 * `<c-x><c-f>` file completion
-* `<c-x><c-]` tag completion
+* `<c-x><c-]` tag completion (useful when completing class names)
 * `<c-n>` next match from document for word under cursor
 * `<c-p>` previous match from document for word under the cursor
 
