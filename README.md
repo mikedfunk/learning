@@ -89,6 +89,7 @@ My list of things to learn
 * 2016-10-13 [Phpunit getMock() vs. getMockBuilder()](phpunit/get_mock_vs_get_mock_builder.md)
 * 2016-10-13 [Phpunit willReturn() by args](phpunit/will_return_by_args.md)
 * 2016-10-01 [Composer local repositories](composer/local-repo.md)
+* 2017-06-01 [UTF-8 string length](php/utf8_strlen.md)
 
 ## Vim
 
