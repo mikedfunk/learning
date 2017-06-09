@@ -4,7 +4,7 @@
 
 phpcbf uses your `phpcs.xml` to fix fixable errors. Just do 
 ```sh
-phpcbf --standard=phpcs.xml --format=php .
+phpcbf --standard=phpcs.xml --extensions=php .
 ```
 Strangely it also tries to format js, css, etc. if you don't specify only php :/
 
