@@ -85,6 +85,7 @@ My list of things to learn
 * 2017-02-06 [Filter by method](php/filter_by_method.md)
 * 2017-02-13 [Configuring php cs fixer](php-cs-fixer/config.md)
 * 2017-02-13 [Configuring and running phpcs](phpcs/config.md)
+* 2017-06-03 [Using phpcbf to fix standards issues found with phpcs](cli_tools/phpcbf.md)
 * 2017-02-13 [Configuring and running phpmd](phpmd/config.md)
 * 2016-10-13 [Phpunit getMock() vs. getMockBuilder()](phpunit/get_mock_vs_get_mock_builder.md)
 * 2016-10-13 [Phpunit willReturn() by args](phpunit/will_return_by_args.md)
