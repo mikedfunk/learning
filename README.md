@@ -9,6 +9,7 @@ Learn something new every day.
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Php](#php)
+* [Regex](#regex)
 * [Vim](#vim)
 * [Web Services](#web-services)
 
@@ -91,6 +92,10 @@ My list of things to learn
 * 2016-10-13 [Phpunit willReturn() by args](phpunit/will_return_by_args.md)
 * 2016-10-01 [Composer local repositories](composer/local-repo.md)
 * 2017-06-01 [UTF-8 string length](php/utf8_strlen.md)
+
+## Regex
+
+* 2017-08-03 [Regex lazy match until character (or characters)](regex/lazy_until_character.md)
 
 ## Vim
 
