@@ -12,6 +12,7 @@ Learn something new every day.
 * [Regex](#regex)
 * [Vim](#vim)
 * [Web Services](#web-services)
+* [Zend Framework](#zend-framework)
 
 ## Coding Exercises
 
@@ -118,3 +119,7 @@ My list of things to learn
 ## Web Services
 
 * 2016-10-27 [Google Tag Manager (GTM) - Tags, Variables, and the Data Layer](gtm/tags_and_variables.md)
+
+## Zend Framework
+
+* 2017-08-04 [Named Routes](zend_framework/named_routes.md)
