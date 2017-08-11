@@ -64,6 +64,7 @@ My list of things to learn
 * 2016-12-06 [Gnu Screen basics](screen/basics.md)
 * 2016-10-11 [Tmux Windows and Panes](tmux/windows_and_panes.md)
 * 2017-04-26 [Compress and Decompress Files/Folders](cli_tools/tar.md)
+* 2017-08-10 [The Silver Searcher (ag) Escaping](cli_tools/ag.md)
 
 ## Docker
 
