@@ -116,6 +116,7 @@ My list of things to learn
 * 2017-02-01 [Search and Replace In Multiple Files](vim/search_and_replace.md)
 * 2017-04-24 [Edit files on remote servers via scp](vim/scp.md)
 * 2017-06-11 [Wildmenu](vim/wildmenu.md)
+* 2017-08-10 [Ctags and PHP Namespaces](vim/ctags_and_php_namespaces.md)
 
 ## Web Services
 
