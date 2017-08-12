@@ -125,4 +125,4 @@ My list of things to learn
 
 ## Zend Framework
 
-* 2017-08-04 [Named Routes](zend_framework/named_routes.md)
+* 2017-08-04 [Named Routes and the URL Helper](zend_framework/named_routes.md)
