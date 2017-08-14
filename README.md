@@ -32,7 +32,7 @@ My list of things to learn
 - [x] laravel 5
 - [ ] puppet
 - [ ] chef
-- [ ] Circle CI
+- [x] Circle CI
 - [ ] travis with containers
 - [ ] sauce labs
 - [ ] behat
@@ -42,7 +42,7 @@ My list of things to learn
 - [ ] vuex
 - [x] flowtype
 - [x] vue router
-- [ ] github pull request test passing integration
+- [x] github pull request test passing integration
 - [ ] how to use kibana
 - [ ] [postgresql](https://egghead.io/courses/get-started-with-postgres-sql) and [window functions](https://egghead.io/courses/use-window-functions-in-postgres)
 - [ ] [ansible](https://serversforhackers.com/an-ansible-tutorial)
