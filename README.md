@@ -119,6 +119,7 @@ My list of things to learn
 * 2017-06-11 [Wildmenu](vim/wildmenu.md)
 * 2017-08-10 [Ctags and PHP Namespaces](vim/ctags_and_php_namespaces.md)
 * 2017-08-14 [Miscellaneous](vim/misc.md)
+* 2017-08-18 [Bulk move files](vim/bulk_move_files.md)
 
 ## Web Services
 
