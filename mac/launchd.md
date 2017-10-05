@@ -8,15 +8,17 @@ You can create a script that runs on startup and tries to restart when it fails.
 <plist version="1.0">
 <dict>
 
+	<!-- restart if it dies -->
 	<key>KeepAlive</key>
 	<true/>
   
+	<!-- should match file name -->
 	<key>Label</key>
 	<string>com.my-script.whatever</string>
   
 	<key>ProgramArguments</key>
 	<array>
-    <!-- example of command with arguments -->
+                <!-- example of command with arguments -->
 		<string>/usr/local/bin/autossh</string>
 		<string>-M</string>
 		<string>0</string>
@@ -28,7 +30,7 @@ You can create a script that runs on startup and tries to restart when it fails.
 	<key>RunAtLoad</key>
 	<true/>
   
-  <!-- for debugging if something is not working -->
+        <!-- for debugging if something is not working -->
 	<key>StandardErrorPath</key>
 	<string>/tmp/myservice-stderr.log</string>
 	<key>StandardOutPath</key>
