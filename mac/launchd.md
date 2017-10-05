@@ -22,7 +22,7 @@ You can create a script that runs on startup and tries to restart when it fails.
 		<string>0</string>
 		<string>-t</string>
 		<string>-N</string>
-		<string>my-ssh-server</string>
+		<string>my-ssh-proxy-server</string>
 	</array>
   
 	<key>RunAtLoad</key>
