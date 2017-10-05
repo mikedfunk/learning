@@ -8,6 +8,7 @@ Learn something new every day.
 * [Docker](#docker)
 * [JavaScript](#javascript)
 * [Linux](#linux)
+* [Mac](#mac)
 * [Php](#php)
 * [Regex](#regex)
 * [Vim](#vim)
@@ -82,6 +83,10 @@ My list of things to learn
 ## Linux
 
 * 2016-09-30 [Set priority of cron tasks](linux/nice.md)
+
+## Mac
+
+* 2017-10-05 [Lauchd Services](mac/launchd.md)
 
 ## PHP
 
