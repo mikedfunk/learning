@@ -61,6 +61,7 @@ My list of things to learn
 * 2016-12-06 [Gnu Screen basics](screen/basics.md)
 * 2016-11-01 [launch a simple static http server](cli_tools/http_server.md)
 * 2016-11-01 [make ssh-add survive reboots on mac](cli_tools/mac_ssh_add.md)
+* 2017-10-10 [Nice: lower cpu priority of task](cli_tools/nice.md)
 * 2016-10-05 [Noti: system notifier](cli_tools/noti.md)
 * 2016-11-02 [run a command when anything in a directory changes](cli_tools/entr.md)
 * 2017-02-15 [substitute env vars in a file](cli_tools/envsusbtr.md)
