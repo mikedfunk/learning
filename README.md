@@ -53,19 +53,20 @@ My list of things to learn
 
 ## CLI Tools
 
-* 2016-10-05 [Noti: system notifier](cli_tools/noti.md)
-* 2016-11-01 [make ssh-add survive reboots on mac](cli_tools/mac_ssh_add.md)
-* 2016-11-01 [launch a simple static http server](cli_tools/http_server.md)
-* 2016-11-02 [run a command when anything in a directory changes](cli_tools/entr.md)
-* 2016-11-08 [cut](cli_tools/cut.md)
 * 2016-02-15 [awk basics](cli_tools/awk.md)
+* 2017-04-26 [Compress and Decompress Files/Folders](cli_tools/tar.md)
+* 2016-11-08 [cut](cli_tools/cut.md)
 * 2016-11-10 [find files by edited date or larger than size](cli_tools/find.md)
 * 2017-02-06 [ipconfig](cli_tools/ipconfig.md)
-* 2017-02-15 [substitute env vars in a file](cli_tools/envsusbtr.md)
 * 2016-12-06 [Gnu Screen basics](screen/basics.md)
-* 2016-10-11 [Tmux Windows and Panes](tmux/windows_and_panes.md)
-* 2017-04-26 [Compress and Decompress Files/Folders](cli_tools/tar.md)
+* 2016-11-01 [launch a simple static http server](cli_tools/http_server.md)
+* 2016-11-01 [make ssh-add survive reboots on mac](cli_tools/mac_ssh_add.md)
+* 2016-10-05 [Noti: system notifier](cli_tools/noti.md)
+* 2016-11-02 [run a command when anything in a directory changes](cli_tools/entr.md)
+* 2017-02-15 [substitute env vars in a file](cli_tools/envsusbtr.md)
 * 2017-08-10 [The Silver Searcher (ag) Escaping](cli_tools/ag.md)
+* 2016-10-11 [Tmux Windows and Panes](tmux/windows_and_panes.md)
+* 2017-10-10 [Wait for background scripts to finish](cli_tools/wait.md)
 * 2017-08-12 [Zsh tips](cli_tools/zsh.md)
 
 ## Docker
