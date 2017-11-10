@@ -4,7 +4,6 @@ Vim has integration with ctags. You can generate tags for your project by runnin
 
 * `<c-]>` jump to tag definition for word under cursor
 * `<c-t>` jump back in the tag stack (go back after jumping to tag)
-* `<c-i>` jump _forward_ in the tag stack
 * `<c-w> }` open the tag definition under cursor in a preview window (`<c-w> z` to close preview when done)
 * `<c-w> ]` jump to tag definition in a horizontal split
 * `:tag myTag` open tag definition for `myTag` in current window. Goes to first match.
