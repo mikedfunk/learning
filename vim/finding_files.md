@@ -4,9 +4,9 @@
 
 You don't need netrw to find and open a file. You can do:
 ```
-:e **/PartOfFileName<tab>
+:e **/*PartOfFileName*<tab>
 ```
-and you'll get the first match. If that's not the one you need, `<c-n>` and `<c-p>` will navigate to other matches.
+and you'll get the first match. If that's not the one you need, `<c-n>` and `<c-p>` will navigate to other matches. If you don't have wildmenu set up you can hit `<c-d>` to show possible matches for the current entry and `<c-l>` to complete the surest match based on the current path. The latter is useful for directories that have only one file or folder in them., e.g. `:e src/<c-l><c-l>...`
 
 ## Using :find
 
