@@ -7,6 +7,7 @@ Learn something new every day.
 * [CLI Tools](#cli-tools)
 * [Docker](#docker)
 * [JavaScript](#javascript)
+* [Laravel](#laravel)
 * [Linux](#linux)
 * [Mac](#mac)
 * [Php](#php)
@@ -81,6 +82,9 @@ My list of things to learn
 * 2017-02-20 [Unit testing with Mocha and Chai](javascript/mocha_setup.md)
 * 2017-02-20 [Mocking, stubbing, and spying with Sinon](javascript/sinon.md)
 * 2017-02-20 [Mocking require and import in testing with proxyquire](javascript/proxyquire_setup.md)
+
+## Laravel
+* 2017-11-28 [Laravel core service class/interface bindings](laravel/core_bindings.md)
 
 ## Linux
 
