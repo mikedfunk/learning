@@ -10,6 +10,7 @@ Learn something new every day.
 * [Laravel](#laravel)
 * [Linux](#linux)
 * [Mac](#mac)
+* [MySQL](#mysql)
 * [Php](#php)
 * [Regex](#regex)
 * [Vim](#vim)
@@ -93,6 +94,10 @@ My list of things to learn
 ## Mac
 
 * 2017-10-05 [Lauchd Services](mac/launchd.md)
+
+## MySQL
+
+* 2017-11-28 [Alter tables with Percona Toolkit](mysql/alter_with_percona_tools.md)
 
 ## PHP
 
