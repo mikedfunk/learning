@@ -112,7 +112,7 @@ My list of things to learn
 * 2016-10-01 [Composer local repositories](composer/local-repo.md)
 * 2017-06-01 [UTF-8 string length](php/utf8_strlen.md)
 * 2017-12-04 [Safe file_put_contents](php/safe_file_put_contents.md)
-* 2017-12-04 [Prophecy](php/prophecy.md)
+* 2017-12-04 [PHPUnit and Prophecy](phpunit/prophecy.md)
 
 ## Regex
 
