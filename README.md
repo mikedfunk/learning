@@ -111,6 +111,7 @@ My list of things to learn
 * 2016-10-13 [Phpunit willReturn() by args](phpunit/will_return_by_args.md)
 * 2016-10-01 [Composer local repositories](composer/local-repo.md)
 * 2017-06-01 [UTF-8 string length](php/utf8_strlen.md)
+* 2017-12-04 [Safe file_put_contents](php/safe_file_put_contents.md)
 
 ## Regex
 
