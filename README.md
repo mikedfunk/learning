@@ -12,6 +12,7 @@ Learn something new every day.
 * [Mac](#mac)
 * [MySQL](#mysql)
 * [Php](#php)
+* [React](#react)
 * [Regex](#regex)
 * [Vim](#vim)
 * [Web Services](#web-services)
@@ -113,6 +114,10 @@ My list of things to learn
 * 2017-06-01 [UTF-8 string length](php/utf8_strlen.md)
 * 2017-12-04 [Safe file_put_contents](php/safe_file_put_contents.md)
 * 2017-12-04 [PHPUnit and Prophecy](phpunit/prophecy.md)
+
+## React
+
+* 2017-12-13 [React setup](react/setup.md)
 
 ## Regex
 
