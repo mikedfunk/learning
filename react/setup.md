@@ -29,6 +29,7 @@ npm init -y
 flow init
 
 # All you have to do when you add one or more new dependencies to your project is run flow-typed install. This will search the libdef repo and download all the libdefs that are relevant for your project and install them for you. After that, simply check them in and be on your way!
+# https://github.com/flowtype/flow-typed
 flow-typed install
 
 # set up babel
@@ -42,5 +43,7 @@ npm i -D babel-plugin-react-require react react-dom prettier-eslint
 # and add "react-require" to the plugins in .babelrc
 
 # keep it simple but flexible with poi
+# https://egghead.io/courses/make-webpack-easy-with-poi
+# https://poi.js.org
 poi
 ```
