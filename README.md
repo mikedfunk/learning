@@ -143,6 +143,7 @@ My list of things to learn
 * 2017-08-10 [Ctags and PHP Namespaces](vim/ctags_and_php_namespaces.md)
 * 2017-08-14 [Miscellaneous](vim/misc.md)
 * 2017-08-18 [Bulk move files](vim/bulk_move_files.md)
+* 2017-12-14 [Go to file under cursor](go_to_file.md)
 
 ## Web Services
 
