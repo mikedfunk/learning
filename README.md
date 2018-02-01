@@ -144,6 +144,7 @@ My list of things to learn
 * 2017-08-14 [Miscellaneous](vim/misc.md)
 * 2017-08-18 [Bulk move files](vim/bulk_move_files.md)
 * 2017-12-14 [Go to file under cursor](vim/go_to_file.md)
+* 2018-02-01 [Show function signature under cursor](vim/show_function_signature.md)
 
 ## Web Services
 
