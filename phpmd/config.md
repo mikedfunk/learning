@@ -28,3 +28,5 @@ Then run it manually to test via:
 phpmd /path/to/MyPhpFile.php text ./phpmd.xml
 ```
 where `text` is the reporter.
+
+Unfortunately phpmd doesn't have a mode to show you the exact rule and ruleset each violation is violating like phpcs does. However you can look them up in [the rule docs](https://phpmd.org/rules/index.html). In some cases that still doesn't have the exact error string. In that case, check out the actual ruleset xml e.g. [codesize xml](https://github.com/phpmd/phpmd/blob/master/src/main/resources/rulesets/codesize.xml) which has the actual error string template. This helped me to find "overall complexity" error where those words were never mentioned in the docs :angry:.
