@@ -4,7 +4,7 @@ Altering a table will lock it until all rows are altered. This can take a while 
 
 [Percona Toolkit](https://www.percona.com/software/database-tools/percona-toolkit) handles this for you. just `brew install percona-toolkit` and you get the `pt-online-schema-change` command. `pt-online-schema-chenage --help` for info. You can dry run, chunk the transitition in batches, etc.
 
-Took me a bit to get percona toolkit working on mac. Steps:
+Took me a bit to get percona toolkit working on mac. I couldn't get perl cpan working with built-in perl. Steps:
 1. `brew install percona-toolkit`
 1. `brew install plenv` (perl version manager)
 2. add to ~/.bashrc: `[[ "$(builtin type -p plenv)" ]] && eval "$(plenv init -)"`
