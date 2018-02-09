@@ -16,8 +16,9 @@ Took me a bit to get percona toolkit working on mac. Steps:
 8. `install DBI`
 9. `install DBD::mysql`
 
-now you should be able to run it, e.g.:
+now you should be able to run it, e.g. in dry run mode:
 ```
 pt-online-schema-change --alter "ADD reset_password_hash VARCHAR(32) NULL DEFAULT NULL AFTER status" D=legacy,h=192.168.99.900,u=me,p=something,P=3306,t=users --alter-foreign-keys-method=auto --dry-run
 pt-online-schema-change --alter "ADD reset_password_expires_at DATETIME NULL DEFAULT NULL AFTER reset_password_hash" D=legacy,h=192.168.99.900,u=me,p=something,P=3306,t=users --alter-foreign-keys-method=auto --dry-run
 ```
+swap `--dry-run` with `--execute` to run it.
