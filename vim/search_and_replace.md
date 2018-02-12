@@ -20,3 +20,13 @@ Also screw all of this - Vim 7.3 now has `cdo` to operate on files in quickfix:
 :grep myterm
 :cdo s/myterm/newterm/gc | update
 ```
+
+Replace `foo` with `bar` on lines that contain `myword`:
+```
+:g/myword/s/foo/bar/g
+```
+
+Delete all lines containing `foo`:
+```
+:v/foo/d
+```
