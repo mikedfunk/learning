@@ -28,13 +28,13 @@ My list of things to learn
 
 - [x] create webpack config from scratch
 - [x] create docker-compose system from scratch
-- [ ] redux
-- [ ] digital ocean droplets <-> docker containers
+- [x] redux
+- [x] digital ocean droplets <-> docker containers
 - [ ] mongo in more depth
 - [ ] create and use a graphql api from scratch
 - [ ] oauth server and client system with react api consumer
 - [x] laravel 5
-- [ ] puppet
+- [x] puppet
 - [ ] chef
 - [x] Circle CI
 - [ ] travis with containers
