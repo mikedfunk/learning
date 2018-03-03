@@ -21,6 +21,12 @@ Also screw all of this - Vim 7.3 now has `cdo` to operate on files in quickfix:
 :cdo s/myterm/newterm/gc | update
 ```
 
+Delete all lines in all files containing `myterm`:
+```
+:grep myterm
+:cfdo! g/myterm/d | update
+```
+
 Replace `foo` with `bar` on lines that contain `myword`:
 ```
 :g/myword/s/foo/bar/g
