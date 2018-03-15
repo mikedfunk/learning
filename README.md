@@ -149,6 +149,7 @@ My list of things to learn
 ## Web Services
 
 * 2016-10-27 [Google Tag Manager (GTM) - Tags, Variables, and the Data Layer](gtm/tags_and_variables.md)
+* 2018-03-14 [Google Tag Manager (GTM) - Fire a tag via an event](gtm/fire_tag_via_event.md)
 
 ## Zend Framework
 
